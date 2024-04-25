@@ -14,3 +14,6 @@ You can click the Preview link to take a look at your changes.
 evilolive868.eth
 or 
 0x217a5DEE943e6F45Bc4EFcBe7DF465a6230a6794
+
+Aptos wallet:
+0xf7fef067d1a5bc9690b41cca32126e55e40fa821e8696c4214119941e3b479b2
